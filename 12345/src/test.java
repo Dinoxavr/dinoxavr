@@ -5,7 +5,7 @@ import org.junit.Test;
 public class test {
 
 	@org.junit.Test
-	public void testSharafutdinov() {
+	public void test() {
 		gui a = new gui();
 		a.start();
 		a.t2.setValue(2);
